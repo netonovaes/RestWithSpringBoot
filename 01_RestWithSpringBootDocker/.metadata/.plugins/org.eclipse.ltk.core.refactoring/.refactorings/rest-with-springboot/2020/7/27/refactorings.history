@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.com.erudio.GreetingControler&apos; to &apos;GreetingController&apos;&#x0D;&#x0A;- Original project: &apos;rest-with-springboot&apos;&#x0D;&#x0A;- Original element: &apos;br.com.erudio.GreetingControler&apos;&#x0D;&#x0A;- Renamed element: &apos;br.com.erudio.GreetingController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;GreetingControler&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;br.com.erudio{GreetingControler.java[GreetingControler" matchStrategy="1" name="GreetingController" qualified="false" references="true" similarDeclarations="false" stamp="1593900089529" textual="false" version="1.0"/>
+</session>
